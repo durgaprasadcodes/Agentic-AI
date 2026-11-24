@@ -1,0 +1,44 @@
+
+# LangChain Core
+langchain
+langchain-core
+langchain-classic
+langchain-community
+
+# Document Processing
+pymupdf
+python-docx
+python-pptx
+openpyxl
+pandas
+
+# Text Splitting
+langchain-text-splitters
+
+# LLM Providers
+langchain-groq
+langchain-openai
+langchain-google-genai
+ 
+# Vector Databases
+faiss-cpu
+langchain-postgres
+psycopg2-binary
+
+# Embeddings & Reranking
+transformers
+rank-bm25
+sentence-transformers
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# LangGraph
+langgraph 
+langgraph-checkpoint 
+
+# MCP Server
+mcp[cli]
